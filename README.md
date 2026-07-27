@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**BeautyOfPrograming/BeautyOfPrograming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Android | PHP | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Mobile Apps
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [News_Paper](https://github.com/BeautyOfPrograming/News_Paper) | Lightweight news aggregation app | Java, Android |
+| [StepCounter](https://github.com/BeautyOfPrograming/StepCounter) | Step tracker and fitness monitor | Java, Android |
+| [MyOnlineShop](https://github.com/BeautyOfPrograming/MyOnlineShop) | Amazon-like e-commerce shopping app | Java, Android |
+
+---
+
+## 🌐 Web Applications
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [mvow](https://github.com/BeautyOfPrograming/mvow) | Browser-based voice recording & public audio archiving | PHP |
+| [movietrailer](https://github.com/BeautyOfPrograming/movietrailer) | Automated YouTube movie trailer fetcher | PHP |
+
+---
+
+## 🤖 AI / Deep Learning
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [DeepseekFromScratch](https://github.com/BeautyOfPrograming/DeepseekFromScratch) | Full implementation of DeepSeek-V3 from scratch | Python, NumPy, PyTorch |
+
+📫 Reach me at: ...
