@@ -1,11 +1,3 @@
-| [![News_Paper](https://github-readme-stats.vercel.app/api/pin/?username=BeautyOfPrograming&repo=News_Paper)](https://github.com/BeautyOfPrograming/News_Paper) | [![StepCounter](https://github-readme-stats.vercel.app/api/pin/?username=BeautyOfPrograming&repo=StepCounter)](https://github.com/BeautyOfPrograming/StepCounter) |
-|:---:|:---:|
-| **News_Paper** - News Aggregator | **StepCounter** - Pedometer App |
-
-
-
-
-
 # 👋 Hi, I'm habibullah saberi
 
 🚀 Full-Stack Developer | Android | PHP | AI/ML Enthusiast
@@ -37,4 +29,4 @@
 | :--- | :--- | :--- |
 | [DeepseekFromScratch](https://github.com/BeautyOfPrograming/DeepseekFromScratch) | Full implementation of DeepSeek-V3 from scratch | Python, NumPy, PyTorch |
 
-📫 Reach me at: ...
+📫 Reach me at:  sabericoder@gmail.com
