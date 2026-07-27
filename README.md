@@ -1,4 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+# 👋 Hi, I'm habibullah saberi
 
 🚀 Full-Stack Developer | Android | PHP | AI/ML Enthusiast
 
