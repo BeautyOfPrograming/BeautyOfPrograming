@@ -8,9 +8,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [News_Paper](https://github.com/BeautyOfPrograming/News_Paper) | Lightweight news aggregation app | Java, Android |
-| [StepCounter](https://github.com/BeautyOfPrograming/StepCounter) | Step tracker and fitness monitor | Java, Android |
-| [MyOnlineShop](https://github.com/BeautyOfPrograming/MyOnlineShop) | Amazon-like e-commerce shopping app | Java, Android |
+| [News-Paper](https://github.com/BeautyOfPrograming/News_Paper) | Lightweight news aggregation app | Java, Android |
+| [Step-Counter](https://github.com/BeautyOfPrograming/StepCounter) | Step tracker and fitness monitor | Java, Android |
+| [My-Online-Shop](https://github.com/BeautyOfPrograming/MyOnlineShop) | Amazon-like e-commerce shopping app | Java, Android |
 
 ---
 
