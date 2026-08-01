@@ -9,6 +9,12 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [news-paper](https://github.com/BeautyOfPrograming/News_Paper) | Lightweight news aggregation app | Java, Android |
+
+
+| [online-food](https://github.com/BeautyOfPrograming/fo) |food ordering app | Java, Android |
+
+
+
 | [step-counter](https://github.com/BeautyOfPrograming/StepCounter) | Step tracker and fitness monitor | Java, Android |
 | [my-online-shop](https://github.com/BeautyOfPrograming/MyOnlineShop) | Amazon-like e-commerce shopping app | Java, Android |
 
