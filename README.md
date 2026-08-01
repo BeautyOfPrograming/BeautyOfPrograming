@@ -8,10 +8,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [my-online-shop](https://github.com/BeautyOfPrograming/MyOnlineShop) | Amazon-like e-commerce shopping app | Java, Android |
-| [news-paper](https://github.com/BeautyOfPrograming/News_Paper) | Lightweight news aggregation app | Java, Android |
+| [my-online-shop](https://github.com/BeautyOfPrograming/MyOnlineShop) | amazon-like e-commerce shopping app | Java, Android |
+| [news-paper](https://github.com/BeautyOfPrograming/News_Paper) | lightweight news aggregation app | Java, Android |
 | [online-food](https://github.com/BeautyOfPrograming/fo) |food ordering app | Java, Android |
-| [step-counter](https://github.com/BeautyOfPrograming/StepCounter) | Step tracker and fitness monitor | Java, Android |
+| [step-counter](https://github.com/BeautyOfPrograming/StepCounter) | step tracker and fitness monitor | Java, Android |
 
 
 ---
@@ -21,7 +21,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [mvow](https://github.com/BeautyOfPrograming/mvow) | Browser-based voice recording & public audio archiving | PHP |
-| [movie-trailer](https://github.com/BeautyOfPrograming/movietrailer) | Automated YouTube movie trailer fetcher | PHP |
+| [movie-trailer](https://github.com/BeautyOfPrograming/movietrailer) | automated YouTube movie trailer fetcher | PHP |
 
 ---
 
